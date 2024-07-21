@@ -21,7 +21,8 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 [![踊り子（Odoriko；Vaundy）／DAZBEE (cover)](https://ytcards.demolab.com/?id=YC0ZkZY3r4I&title=踊り子+(Odoriko+Vaundy)／DAZBEE+(cover)&lang=en&timestamp=1656604800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "踊り子（Odoriko；Vaundy）／DAZBEE (cover)")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 [![9 Life Lessons - Tim Minchin UWA Address](https://ytcards.demolab.com/?id=yoEezZD71sc&title=9+Life+Lessons+-+Tim+Minchin+UWA+Address&lang=en&timestamp=1381190400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "9 Life Lessons - Tim Minchin UWA Address")](https://youtu.be/yoEezZD71sc?si=Mxs_ukEuEhMfD_qh)
-[![翼をください](https://ytcards.demolab.com/?id=PLAHsB7EJpA&title=翼をください&lang=en&timestamp=1577836800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290 "翼をください")](https://youtu.be/PLAHsB7EJpA?si=GWXZaWywqHk7LjL9)
+[![翼をください](https://ytcards.demolab.com/?id=PLAHsB7EJpA&title=翼をください&lang=en&timestamp=1595289600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290 "翼をください")](https://youtu.be/PLAHsB7EJpA?si=GWXZaWywqHk7LjL9)
+[![Bluecoats Drumline 2012 - Ritual (Feature)](https://ytcards.demolab.com/?id=nvyrbdFMwTI&title=Bluecoats+Drumline+2012+-+Ritual+%28Feature%29&lang=en&timestamp=1344816000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157 "Bluecoats Drumline 2012 - Ritual (Feature)")](https://youtu.be/nvyrbdFMwTI?si=WGmRU0QV8NLtGbe-)
 <!-- END YOUTUBE-CARDS -->
 
 [![](https://visitcount.itsvg.in/api?id=Anokh1&icon=8&color=4)](https://visitcount.itsvg.in)
