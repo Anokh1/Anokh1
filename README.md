@@ -1,4 +1,4 @@
-### <pre> A D R I A N   O O I   2 0 2 4   A U G U S T</pre>
+### <pre> A D R I A N   O O I   2 0 2 4   12 A U G U S T</pre>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Anokh1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
