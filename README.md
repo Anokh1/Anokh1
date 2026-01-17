@@ -1,4 +1,4 @@
-### <pre>  A D R I A N   O O I   2 0 2 5   M A Y</pre>
+### <pre>  A D R I A N   O O I   2 0 2 6   J A N</pre>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=6000&lines=SOFTWARE+ENGINEER+1;+COVENTRY+UNIVERSITY+CLASS+OF+2024;+INTI+INTERNATIONAL+COLLEGE+PENANG" />
